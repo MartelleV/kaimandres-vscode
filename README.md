@@ -7,11 +7,6 @@
   <p>
     <strong>A robust, high-contrast, semantic theme; a crossover between Poimandres and Kanagawa aesthetics.</strong>
   </p>
-
-  <p>
-    <a href="https://github.com/MartelleV/kaimandres-vscode/stargazers"><img src="https://img.shields.io/github/stars/MartelleV/kaimandres?style=for-the-badge&colorA=16161e&colorB=78a9ff" alt="Stars"></a>
-    <a href="https://github.com/MartelleV/kaimandres-vscode/blob/main/LICENSE"><img src="https://img.shields.io/github/license/MartelleV/kaimandres?style=for-the-badge&colorA=16161e&colorB=d0679d" alt="License"></a>
-  </p>
 </div>
 
 ---
