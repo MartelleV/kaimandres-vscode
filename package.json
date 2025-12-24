@@ -1,0 +1,27 @@
+{
+  "name": "kaimandres-vscode",
+  "displayName": "Kaimandres for VS Code",
+  "description": "The official port of Neovim's Kaimandres theme, made by Martelle.",
+  "publisher": "martellev",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.107.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Kaimandres",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Kaimandres-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MartelleV/kaimandres-vscode"
+  },
+  "icon": "icon.png"
+}
