@@ -834,9 +834,12 @@
         "punctuation",
         "meta.brace",
         "meta.delimiter",
+        "punctuation.definition.string",
         "punctuation.definition.variable",
         "punctuation.definition.parameters",
-        "punctuation.definition.array"
+        "punctuation.definition.array",
+        "punctuation.definition.string.begin.json",
+        "punctuation.definition.string.end.json"
       ],
       "settings": {
         "foreground": "#89ddff"
@@ -844,22 +847,15 @@
     },
     {
       "scope": [
-        "punctuation.definition.string"
+        "punctuation.definition.string.end.html.vue",
+        "punctuation.definition.string.begin.html.vue",
+        "punctuation.definition.string.begin.tsx",
+        "punctuation.definition.string.end.tsx",
+        "punctuation.definition.string.begin.jsx",
+        "punctuation.definition.string.end.jsx"
       ],
       "settings": {
         "foreground": "#ffb454"
-      }
-    },
-    {
-      "scope": "punctuation.definition.string.begin.json",
-      "settings": {
-        "foreground": "#89ddff"
-      }
-    },
-    {
-      "scope": "punctuation.definition.string.end.json",
-      "settings": {
-        "foreground": "#89ddff"
       }
     },
     {
