@@ -834,11 +834,30 @@
         "punctuation",
         "meta.brace",
         "meta.delimiter",
-        "punctuation.definition.string",
         "punctuation.definition.variable",
         "punctuation.definition.parameters",
         "punctuation.definition.array"
       ],
+      "settings": {
+        "foreground": "#89ddff"
+      }
+    },
+    {
+      "scope": [
+        "punctuation.definition.string"
+      ],
+      "settings": {
+        "foreground": "#ffb454"
+      }
+    },
+    {
+      "scope": "punctuation.definition.string.begin.json",
+      "settings": {
+        "foreground": "#89ddff"
+      }
+    },
+    {
+      "scope": "punctuation.definition.string.end.json",
       "settings": {
         "foreground": "#89ddff"
       }
@@ -878,7 +897,6 @@
       ],
       "settings": {
         "foreground": "#add7ff",
-        "fontStyle": "italic"
       }
     },
     {
@@ -1189,8 +1207,7 @@
     {
       "scope": "keyword.operator.type",
       "settings": {
-        "foreground": "#bda6ed",
-        "fontStyle": "italic"
+        "foreground": "#bda6ed"
       }
     },
     {
@@ -1208,7 +1225,7 @@
     {
       "scope": "string.quoted.double.json",
       "settings": {
-        "foreground": "#8ab8ff"
+        "foreground": "#91d7a3"
       }
     },
     {
