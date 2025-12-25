@@ -43,6 +43,12 @@
 
 ---
 
+## Other Ports
+
+If you are a Zed user, go here: **[Kaimandres Zed Theme](https://zed-themes.com/themes/-NvUnJul7Bvewn1wS29Ff?name=Kaimandres)** and download the theme's JSON file, then put it inside your `~/.config/zed/themes` directory.
+
+---
+
 ## The Neovim Original
 
 This theme is a direct port of my original Neovim implementation. If you are a Neovimmer like me, check it out as well: **[kaimandres.nvim](https://github.com/MartelleV/kaimandres.nvim)**.
