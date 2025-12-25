@@ -3,7 +3,7 @@
   "displayName": "Kaimandres for VS Code",
   "description": "The official port of Neovim's Kaimandres theme, made by Martelle.",
   "publisher": "martellev",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "engines": {
     "vscode": "^1.107.0"
   },
