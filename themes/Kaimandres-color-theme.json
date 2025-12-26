@@ -1076,8 +1076,7 @@
     },
     {
       "scope": [
-        "string.other.link",
-        "text.html.markdown punctuation.definition.string"
+        "string.other.link"
       ],
       "settings": {
         "foreground": "#8ab8ff",
