@@ -18,3 +18,29 @@ All notable changes to the "Kaimandres" extension will be documented in this fil
 
 ### Patch 02
 - Enhanced README docs with badges.
+
+## [1.0.3] - 2025-12-25
+
+### Patch 03
+- Updated entity.other.attribute-name colors.
+
+## [1.0.4] - 2025-12-25
+
+### Patch 04
+- Improved string highlightings for JSON files.
+
+## [1.0.5] - 2025-12-25
+
+### Patch 05
+- Improved string highlighting for JSX/TSX and Vue files.
+
+## [1.0.6] - 2025-12-25
+
+### Patch 06
+- Eliminated underlines for Markdown strings.
+
+
+## [1.1.0] - 2025-12-25
+
+### Minor Update 01
+- Finalized improvements on colors and specific cases of highlighting, including fold and range highlights.
