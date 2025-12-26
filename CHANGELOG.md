@@ -49,3 +49,8 @@ All notable changes to the "Kaimandres" extension will be documented in this fil
 
 ### Patch 01, Minor Update 01
 - Configured tab bar colors with smoother color transitions.
+  
+## [1.1.2] - 2025-12-27
+
+### Patch 02, Minor Update 01
+- Removed italics for some operators.

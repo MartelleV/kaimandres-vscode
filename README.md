@@ -64,10 +64,8 @@ For the full Kaimandres experience, add these to your `settings.json`.
 
   ```json
   {
-    "editor.fontFamily": "JetBrains Mono",
     "editor.cursorBlinking": "smooth",
     "editor.semanticHighlighting.enabled": true,
-    "editor.renderLineHighlight": "all",
     "workbench.iconTheme": "catppuccin-mocha", // Recommended file icon theme
   }
 
