@@ -69,3 +69,8 @@ All notable changes to the "Kaimandres" extension will be documented in this fil
 
 ### Patch 05, Minor Update 01
 - Added Java robust support (more fixes incoming).
+
+## [1.1.6] - 2026-01-15
+
+### Patch 06, Minor Update 01
+- Added Markdown robust support (more fixes incoming).
