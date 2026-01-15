@@ -543,6 +543,9 @@
       "foreground": "#f0d98d",
       "fontStyle": "bold"
     },
+    "property.static:java": {
+      "foreground": "#8ab8ff"
+    },
     "event": "#fffac2",
     "modifier": "#bda6ed",
     "keyword": "#bda6ed",
