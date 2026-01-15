@@ -753,6 +753,13 @@
       }
     },
     {
+      "scope": ["keyword.control.new.java"],
+      "settings": {
+        "foreground": "#ea9bba",
+        "fontStyle": "bold"
+      }
+    },
+    {
       "scope": "keyword.operator",
       "settings": {
         "foreground": "#89ddff"
