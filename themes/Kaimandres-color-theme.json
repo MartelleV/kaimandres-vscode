@@ -736,7 +736,14 @@
       }
     },
     {
-      "scope": ["keyword.control.return", "keyword.control.flow"],
+      "scope": [
+        "keyword.control.return",
+        "keyword.control.flow",
+        "keyword.control.jump",
+        "keyword.control.throw",
+        "keyword.control.switch",
+        "keyword.control.java"
+      ],
       "settings": {
         "foreground": "#f087bd",
         "fontStyle": "bold"
