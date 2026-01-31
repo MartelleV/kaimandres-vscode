@@ -20,7 +20,7 @@
 
 ## Philosophy
 
-> Kaimandres is handcrafted by me for the "deep void" that balances the renowned sleek aesthetics of **Poimandres** with the robust semantic logic and dimming capabilities of **Kanagawa**. 
+> Kaimandres is handcrafted by me for the "deep void" that balances the renowned sleek aesthetics of **Poimandres** with the robust semantic logic and dimming capabilities of **Kanagawa**.
 
 ---
 
@@ -46,6 +46,7 @@
 ## Other Ports
 
 If you are a Zed user, go here: **[Kaimandres Zed Theme](https://zed-themes.com/themes/-NvUnJul7Bvewn1wS29Ff?name=Kaimandres)** and download the theme's JSON file, then put it inside your `~/.config/zed/themes` directory.
+Or better yet, you can download it directly from Zed's Extension Market. The theme is now officially published on Zed.
 
 ---
 
@@ -65,11 +66,12 @@ For the full Kaimandres experience, add these to your `settings.json`.
   ```json
   {
     "editor.cursorBlinking": "smooth",
-    "editor.semanticHighlighting.enabled": true,
+    "editor.semanticHighlighting.enabled": false, // IMPORTANT: This allows the theme's full highlighting capability, as I set up every token granularly via Textmate to closely match Neovim's original.
     "workbench.iconTheme": "catppuccin-mocha", // Recommended file icon theme
   }
 
   ```
+
 </details>
 
 ---
@@ -80,9 +82,9 @@ If you encounter any bugs, visual inconsistencies, or unexpected behavior while 
 
 When reporting an issue, please include:
 
-- A clear description of the problem (e.g., with which language did you encounter this, steps to reproduce the problem)
-- Screenshots, if applicable
-- Your VS Code version and any relevant settings
+* A clear description of the problem (e.g., with which language did you encounter this, steps to reproduce the problem)
+* Screenshots, if applicable
+* Your VS Code version and any relevant settings
 
 ---
 
