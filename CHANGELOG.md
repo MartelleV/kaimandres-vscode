@@ -93,3 +93,9 @@ All notable changes to the "Kaimandres" extension will be documented in this fil
 ### Minor Update 02
 
 - Removed Semantic Highlighting. Chose granular control of Textmate over Semantic Highlighting to avoid overriding specific rules for certain languages (including `C#`, `Java`, `Python`, and `JavaScript/TypeScript`).
+
+## [1.2.1] - 2026-02-02
+
+### Patch 01, Minor Update 02
+
+- Fully support major languages with more robust Textmate rules.
