@@ -971,12 +971,15 @@
       }
     },
     {
-      "scope": [
-        "punctuation.section.embedded",
-        "punctuation.definition.template-expression"
-      ],
+      "scope": ["punctuation.section.embedded"],
       "settings": {
         "foreground": "#5de4c7"
+      }
+    },
+    {
+      "scope": ["punctuation.definition.template-expression"],
+      "settings": {
+        "foreground": "#767c9d"
       }
     },
     {

@@ -99,3 +99,9 @@ All notable changes to the "Kaimandres" extension will be documented in this fil
 ### Minor Update 03
 
 - Fully support major languages with more robust Textmate rules.
+
+## [1.3.1] - 2026-02-02
+
+### Patch 01, Minor Update 03
+
+- Fix template strings to be the subtle grey color #767c9d (mainly for `JavaScript/TypeScript`).
